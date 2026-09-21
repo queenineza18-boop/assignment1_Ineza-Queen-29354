@@ -1,7 +1,7 @@
  Sunrise Supermarket
  * Student Name: Queen Ineza
  * Student ID: 29354
- * DBMS Used: SQL Plus
+ * DBMS Used: postgres
  Business Scenario
 
 Sunrise Supermarket maintains a relational database to record customer purchases, order histories, and product inventories. To help management analyze customer demographics, purchasing behavior, and sales trends over time, advanced SQL querying techniques were implemented on tables covering customers, products, categories, orders, and order items.
